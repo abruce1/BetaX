@@ -1,2 +1,0 @@
-# BetaX
- Babson_project
